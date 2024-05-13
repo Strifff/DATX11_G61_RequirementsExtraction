@@ -1,0 +1,1209 @@
+{
+  "script": [
+    {
+      "id": 1,
+      "page": 6,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Terms and conditions, Maximum power: Prescribed output voltage shall be within  10% of the rated voltage"
+    },
+    {
+      "id": 2,
+      "page": 6,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Terms and conditions, Maximum power: Prescribed output frequency shall be within  8% of the rated frequency"
+    },
+    {
+      "id": 3,
+      "page": 6,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Terms and conditions, Maximum power: The protective device shall not be activated for a period of 5 min"
+    },
+    {
+      "id": 4,
+      "page": 6,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Terms and condtions, Maximum power: The protective device overload conditions shall meet the requirements of section 6.4."
+    },
+    {
+      "id": 5,
+      "page": 6,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 2": "TP",
+          "rater 1": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Terms and condtions, Maximum: The minimum ratio between the power rating (COP) and the maximum power (MAX) shall be Prated/Pmax  0,75"
+    },
+    {
+      "id": 6,
+      "page": 7,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Regulations and additional requirements: For low-power generating sets, depending on the location, regulations referring to environmental and safety requirements defined in the laws and regulations location where generating sets are used shall exist."
+    },
+    {
+      "id": 7,
+      "page": 7,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "General notes on tests: Type tests are made on a single sample and shall withstand all the relevant tests."
+    },
+    {
+      "id": 8,
+      "page": 7,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "General notes on tests: During tests, the ambient air shall be kept between 15 C and 30 C"
+    },
+    {
+      "id": 9,
+      "page": 7,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "General notes on tests: Generating sets built for more than one type of rated voltage, rated frequency or current shall be tested for all relevant operating parameters."
+    },
+    {
+      "id": 10,
+      "page": 7,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), General: Acceptability of the component parts of the generating set shall be judged on the mechanical and electrical strength and resistance to ignition and distortion."
+    },
+    {
+      "id": 11,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Generator, Rating and performance: The generator shall meet the requirements of IEC 60034-1 concerning duty type S1, covering rated values, irregularities of waveform, symmetry of voltages, capability of unbalanced load, temperature rise, dielectric properties and short circuit strength."
+    },
+    {
+      "id": 12,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Generator, Rating and performance: Compliance shall be checked by checking manufacturers documentation."
+    },
+    {
+      "id": 13,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Generator, Connection to stator or field: Access to brushes shall not be possible without tools."
+    },
+    {
+      "id": 14,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Generator, Connection to stator or field: Screw caps or brush holders shall be screwed against a shoulder or a similar stop and grip with at least three full threads."
+    },
+    {
+      "id": 15,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Connection to stator or field: Brush holders in which the brush is held in position by a locking facility shall be made in such a way as to ensure that locking is not dependent on brush spring pressure if loosening of the locking facility could give access to live parts."
+    },
+    {
+      "id": 16,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Connection to stator or field: Screw caps of brush holders accessible from the outside surface of the generator shall be made of insulating material or be covered by insulating material of suitable mechanical and electrical strength."
+    },
+    {
+      "id": 17,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Connection to stator or field: Screw caps of brush holders accessible from the outside surface of the generator shall not project beyond the surrounding surface of the unit."
+    },
+    {
+      "id": 18,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Connection to stator or field: Compliance shall be checked by visual inspection, mechanical test according to ISO 8528-13:2016, 6.12 and dielectric strength according to IEC 60335-1:2013, 13."
+    },
+    {
+      "id": 19,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Connection of electric loads: Except for extra low voltages ( 50 V), low voltages plug-and-socket connections according to IEC/TR 60083 (single phase) and IEC 60309 (multiphase), or relevant national standards, shall be applied."
+    },
+    {
+      "id": 20,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Connection of electric loads: It shall not be possible to confuse plugs and socket outlets for very low voltage circuits with those plugs and socket outlets for low voltage circuits. (Very low voltage  50 V and 50 < Low voltage  1 000 V.) "
+    },
+    {
+      "id": 21,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Screws and connections: Screws and connections shall be designed in accordance with IEC 60335-1:2010, Clause 28."
+    },
+    {
+      "id": 22,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Electrical equipment, Screws and connections: Compliance shall be checked in accordance with IEC 60335-1:2013, Clause 28."
+    },
+    {
+      "id": 23,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Temperature rise, General: During the operating of a generating set with given ratings, the permitted temperature limits shall not be exceeded, meaning if at average permitted power and for a minimum run of 60 min, the permitted values according to sections 6.3.2 and 6.3.3 are not exceeded."
+    },
+    {
+      "id": 24,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Temperature rise, Generator: The permitted temperature limits for a generator are given in IEC 60034-1:2010, Clause 8."
+    },
+    {
+      "id": 25,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Temperature rise, Generator: Compliance shall be checked by the generator being operated at ambient conditions as defined in Clause 5."
+    },
+    {
+      "id": 26,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Temperature rise, Generator: Temperature rise test and method of measurement shall be in accordance with IEC 60034-1:2010, Clause 8."
+    },
+    {
+      "id": 27,
+      "page": 8,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Mechanical and electrical design (requirements and tests), Temperature rise, Generator: During the rise test the average permitted power for the generating set shall be maintained at a constant level."
+    },
+    {
+      "id": 28,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 2": "TP",
+          "rater 1": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "According to IEC 60034-1:2010, 8.4 the temperature rise shall be determined immediately after the temperature rise test."
+    },
+    {
+      "id": 29,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "To measure the temperature of the windings the resistance method shall be used."
+    },
+    {
+      "id": 30,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "The temperatures are measured at thermal steady-state conditions. They shall not exceed the maximum temperatures specified by the component manufacturers."
+    },
+    {
+      "id": 31,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Overload conditions: Overload is likely to occur in normal use. Generating sets which are tested in accordance with this part of ISO 8528 shall not suffer any damage as a result of an overload which could impair safety.\n"
+    },
+    {
+      "id": 32,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Overload conditions: This mode of operation shall be checked at ambient conditions in accordance with Clause 5, and at rated power and rated power factor in accordance with 7.1;"
+    },
+    {
+      "id": 33,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Overload conditions: the generating set shall be loaded with active or apparent power to above its rated power until maximum power occurs or until the voltage drops to 0,8 rated voltage."
+    },
+    {
+      "id": 34,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Overload conditions: A temperature rise test is then performed at the determined working point for a maximum of 30 min or until the protective device provides trips. During this test, the temperature rise of the generator windings shall not exceed the limits laid down in IEC 60034-1:2010, 8.10.1 by more than 20 K (i.e. for S2 a total of 30 K)"
+    },
+    {
+      "id": 35,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Controlled generator: It is necessary to protect a.c. generator against thermal overloading if underspeed occurs. Where a shutdown function is used for this purpose, the switch back may not occur automatically."
+    },
+    {
+      "id": 36,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Controlled generator: This mode of operation shall be checked by loading the generating set above its rated power up to the maximum available power before voltage collapse. This is then followed by a temperature rise test and assessment in accordance with 6.4.2."
+    },
+    {
+      "id": 37,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Controlled generator: \nIf the maximum power is limited by a protective device the maximum power shall to be maintained for a period of at least 5 min. In all cases, the overload conditions shall meet the requirements of 6.4"
+    },
+    {
+      "id": 38,
+      "page": 9,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Generating sets may only be loaded up to rated power under the specified cooling and temperature conditions. If operating conditions do not conform to the reference conditions as stipulated in this part of ISO 8528"
+    },
+    {
+      "id": 39,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: for operations in restricted areas, a reduction in power is necessary. This fact shall be stipulated in the operation instructions."
+    },
+    {
+      "id": 40,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Compliance shall be checked by a check of operating instructions"
+    },
+    {
+      "id": 41,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Short circuits on any of the electrical outputs of the generating set shall not cause mechanical or electrical damage that could impair safety. This also applies to electrical charging rectifiers, even in the event of reversal of polarity when connected to a charged battery."
+    },
+    {
+      "id": 42,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Where different rated voltages are possible, incorrect voltage selection shall not cause any consequential damage to the generating set."
+    },
+    {
+      "id": 43,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Compliance shall be checked by operating the generating set until stable conditions are established, whilst short court-circuiting output terminals or terminations and fuses which are accessible without the aid of a tool."
+    },
+    {
+      "id": 44,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Each check on incorrect running conditions shall be performed separately\n"
+    },
+    {
+      "id": 45,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: After each test, any protection device that has operated shall be replaced or reset."
+    },
+    {
+      "id": 46,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: During these tests, the generating set shall not emit flames or molten metal, or in hazardous amounts, poisonous or ignitable gas and enclosures shall not deform to such an extent as to impair compliance with this part of ISO 8528."
+    },
+    {
+      "id": 47,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: The battery used for this test is a lead acid battery having a rated DC output voltage equal to the rated DC output voltage of the battery-charging circuit of the generating set and a capacity of at least 70 Ah. "
+    },
+    {
+      "id": 48,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Controls which determine the specified engine speed shall be factory safeguarded by the manufacturer of the generating set against misuse by the user."
+    },
+    {
+      "id": 49,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Where sealing is not possible or if the connecting linkage between the speed governor and the actuator is accessible from the exterior, short term overspeed to 1,2 times the rated speed shall not cause damage to the generating sets.\n"
+    },
+    {
+      "id": 50,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: Compliance shall be checked by visual inspection and one minute operation at 1,2 times rated speed."
+    },
+    {
+      "id": 51,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Improper operation: For the purpose of determining operating characteristics, power output, quality class and fuel consumption, the following standard reference conditions shall be used. The standard reference conditions according to ISO 3046-1 and ISO 15550 are as follows: ambient air temperature: 25 \u00b0C, 298 K;"
+    },
+    {
+      "id": 52,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Standard reference conditions: For the purpose of determining operating characteristics, power output, quality class and fuel consumption, the following standard reference conditions shall be used. The standard reference conditions according to ISO 3046-1 and ISO 15550 are as follows: ambient air pressure: 100 kPa;"
+    },
+    {
+      "id": 53,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Standard reference conditions: For the purpose of determining operating characteristics, power output, quality class and fuel consumption, the following standard reference conditions shall be used. The standard reference conditions according to ISO 3046-1 and ISO 15550 are as follows: relative humidity: 30 %."
+    },
+    {
+      "id": 54,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Standard reference conditions: the tests of standard reference conditions shall be according to clause 5"
+    },
+    {
+      "id": 55,
+      "page": 10,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Start-up and operating conditions: Generating sets in accordance with this part of ISO 8528 shall be able to start-up and to operate at ambient temperatures between \u221215 \u00b0C and 40 \u00b0C.\n"
+    }
+  ],
+  "FP": {
+    "roleplay": {
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "10": []
+    },
+    "zeroshot": {
+      "6": [
+        {
+          "rater": "rater 1",
+          "count": 1
+        },
+        {
+          "rater": "rater 2",
+          "count": 1
+        },
+        {
+          "rater": "rater 3",
+          "count": 1
+        }
+      ],
+      "7": [
+        {
+          "rater": "rater 1",
+          "count": 3
+        },
+        {
+          "rater": "rater 2",
+          "count": 3
+        },
+        {
+          "rater": "rater 3",
+          "count": 3
+        }
+      ],
+      "8": [
+        {
+          "rater": "rater 1",
+          "count": 5
+        },
+        {
+          "rater": "rater 2",
+          "count": 1
+        },
+        {
+          "rater": "rater 3",
+          "count": 3
+        }
+      ],
+      "9": [
+        {
+          "rater": "rater 1",
+          "count": 1
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 2
+        }
+      ],
+      "10": [
+        {
+          "rater": "rater 1",
+          "count": 0
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 0
+        }
+      ]
+    },
+    "fewshot": {
+      "6": [
+        {
+          "rater": "rater 1",
+          "count": 3
+        },
+        {
+          "rater": "rater 2",
+          "count": 5
+        },
+        {
+          "rater": "rater 3",
+          "count": 3
+        }
+      ],
+      "7": [
+        {
+          "rater": "rater 1",
+          "count": 6
+        },
+        {
+          "rater": "rater 2",
+          "count": 4
+        },
+        {
+          "rater": "rater 3",
+          "count": 4
+        }
+      ],
+      "8": [
+        {
+          "rater": "rater 1",
+          "count": 2
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 1
+        }
+      ],
+      "9": [
+        {
+          "rater": "rater 1",
+          "count": 1
+        },
+        {
+          "rater": "rater 2",
+          "count": 1
+        },
+        {
+          "rater": "rater 3",
+          "count": 1
+        }
+      ],
+      "10": [
+        {
+          "rater": "rater 1",
+          "count": 0
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 0
+        }
+      ]
+    },
+    "role_and_few": {
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "10": []
+    }
+  }
+}

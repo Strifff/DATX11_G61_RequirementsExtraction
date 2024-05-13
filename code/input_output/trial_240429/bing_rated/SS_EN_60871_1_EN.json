@@ -1,0 +1,1114 @@
+{
+  "script": [
+    {
+      "id": 1,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: Residual voltage at energization This shall not exceed 10 % of the rated voltage (see Clause 21, Subclause 19.2 and Annex D)."
+    },
+    {
+      "id": 2,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: Altitude If the altitude exceeds 1 000 m above sea level a correction factor shall be applied to all external insulation requirements as stipulated in Clause 18."
+    },
+    {
+      "id": 3,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "FN",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: The capacitors number represents the lowest ambient air temperature at which the capacitor may operate."
+    },
+    {
+      "id": 4,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: The capacitors letters represent upper limits of temperature variation ranges, having maximum values specified in Table 1."
+    },
+    {
+      "id": 5,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: The capacitors temperature categories cover the temperature range of +50 C to +55 C."
+    },
+    {
+      "id": 6,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: The lowest ambient air temperature at which the capacitor may be operated should be chosen from the five preferred values: +5 C, -5 C, -25 C, -40 C, -50 C."
+    },
+    {
+      "id": 7,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: If the capacitor influences the air temperature, the ventilation and/or choice of capacitor shall be such that the Table 1 limits are maintained."
+    },
+    {
+      "id": 8,
+      "page": 17,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Normal service conditions: If the capacitor influences the air temperature, then the cooling air temperature in such an installation shall not exceed the temperature limits of Table 1 by more than 5 C."
+    },
+    {
+      "id": 9,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Service conditions, Unusual service conditions: Unless otherwise agreed between manufacturer and purchaser, this standard does not apply to capacitors, the service conditions of which, in general, are incompatible with the requirements of the present standard. "
+    },
+    {
+      "id": 10,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Quality requirements and tests, General: Supporting insulators, switches, instrument transformers, external fuses, etc. shall be in accordance with relevant IEC standards. "
+    },
+    {
+      "id": 11,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Quality requirements and tests, Test conditions: Unless otherwise specified for a particular test or measurement, the temperature of the capacitor dielectric shall be in the range +5 C to +35 C. "
+    },
+    {
+      "id": 12,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "FN",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Quality requirements and tests, Test conditions: When a correction has to be applied, the reference temperature to be used is +20 C, unless otherwise agreed between the manufacturer and the purchaser."
+    },
+    {
+      "id": 13,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Quality requirements and tests, Test conditions: The a.c. tests and measurements shall be carried out at a frequency of 50 Hz or 60 Hz independent of the rated frequency of the capacitor, if not otherwise specified."
+    },
+    {
+      "id": 14,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: Measurement of the tangent of the loss angle (tan ) of the capacitor (see Clause 8). "
+    },
+    {
+      "id": 15,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: Voltage test between terminals (see Clause 9). "
+    },
+    {
+      "id": 16,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: AC voltage test between terminals and container (see Clause 10). "
+    },
+    {
+      "id": 17,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: Test of internal discharge device (see Clause 11). "
+    },
+    {
+      "id": 18,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: Sealing test (see Clause 12). "
+    },
+    {
+      "id": 19,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: Discharge test on internal fuses (see 5.1.1 of IEC 60871-4:1996)."
+    },
+    {
+      "id": 20,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "FN",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: Routine tests shall have been carried out by the manufacturer on every capacitor before delivery. "
+    },
+    {
+      "id": 21,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: If the purchaser so requests, he shall be supplied with a certificate detailing the results of such tests. "
+    },
+    {
+      "id": 22,
+      "page": 18,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Classification of tests, General, Routine tests: The test sequence of type tests is not is not mandatory."
+    },
+    {
+      "id": 23,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: name of manufacturer; "
+    },
+    {
+      "id": 24,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: rated output QN in megavars. Total output to be given; "
+    },
+    {
+      "id": 25,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: rated voltage UN in kilovolts; \n"
+    },
+    {
+      "id": 26,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: insulation level Ui. "
+    },
+    {
+      "id": 27,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: The insulation level shall be marked by means of two numbers separated by a stroke"
+    },
+    {
+      "id": 28,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: connection symbol. For standardized connection symbols see 25.2. The connection symbol may be part of a simplified connection diagram showing for example unbalance protection, damping reactors, etc."
+    },
+    {
+      "id": 29,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: minimum time required between disconnection and reclosure of the bank (see 4.1 a), and Annex D)"
+    },
+    {
+      "id": 30,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Instruction sheet or rating plate: The following minimum information shall be given by the manufacturer in an instruction sheet or alternatively, on request of the purchaser, on a rating plate: time to discharge to 75 V (in the case of banks rated above 25 kV)."
+    },
+    {
+      "id": 31,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Guide for installation and operation: Overstressing and overheating shorten the life of a capacitor, and therefore the operating conditions (i.e. temperature, voltage and current) should be strictly controlled and specified. "
+    },
+    {
+      "id": 32,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "FN",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Guide for installation and operation: In addition, the recommendations of the manufacturer and the power supply authorities should be followed, especially those concerning the switching of capacitors when the network is under light load conditions. "
+    },
+    {
+      "id": 33,
+      "page": 35,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Choice of the rated voltage: The rated voltage of the capacitor should be not less than the maximum operating voltage of the network to which the capacitor is to be connected, account being taken of the influence of the capacitor itself. "
+    },
+    {
+      "id": 34,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 2": "FN",
+          "rater 1": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Choice of the rated voltage: In certain networks, a considerable difference may exist between the operating and rated voltage of the network, details of which should be provided by the purchaser"
+    },
+    {
+      "id": 35,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Choice of the rated voltage: the resultant increase of the voltage at the capacitor terminals above the operating voltage of the network requires a corresponding increase in the rated voltage of the capacitor."
+    },
+    {
+      "id": 36,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Choice of the rated voltage: If no information to the contrary is available, the operating voltage should be assumed as equal to the rated or declared voltage of the network."
+    },
+    {
+      "id": 37,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Choice of the rated voltage: Only in case of emergency should capacitors simultaneously be operated at maximum permissible overvoltage and maximum ambient temperature and then only for short periods of time. "
+    },
+    {
+      "id": 38,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Choice of the rated voltage: Allowance should be made for the effect of unit capacitance tolerance on the operating voltage in series or star-connected assemblies."
+    },
+    {
+      "id": 39,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Operating temperature: All loss-producing accessories, such as external fuses, reactors, etc., should be included in the calculation of total bank losses."
+    },
+    {
+      "id": 40,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Operating temperature: Capacitors should be so placed that there is adequate dissipation by convection and radiation of the heat produced by the capacitor losses."
+    },
+    {
+      "id": 41,
+      "page": 36,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Operating temperature: The ventilation of any enclosure and the arrangement of the capacitor units shall provide good air circulation around each unit."
+    },
+    {
+      "id": 42,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "Capacitors installed at high altitudes (more than 1 000 m) will be subject to decreased \nconvective heat dissipation, which should be considered when determining the output of the \nunits."
+    },
+    {
+      "id": 43,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "High ambient air temperature: In some locations, however, the ambient air temperature may be such that a \nsymbol D capacitor is required"
+    },
+    {
+      "id": 44,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "FN",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "role_and_few": {}
+      },
+      "text": "High ambient air temperature: In exceptional cases, the ambient air temperature may be higher than 55 \u00b0C maximum, or \n45 \u00b0C daily mean. Where it is impossible to improve the cooling conditions, capacitors of \nspecial design or with a higher rated voltage should be used."
+    },
+    {
+      "id": 45,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Special service conditions: In addition to the conditions covered in 27.3, the manufacturer should be advised by the \npurchaser of any special service conditions such as: high relative humidity: it may be necessary to use insulators of special design. Attention \nis drawn to the possibility of external fuses being shunted by a deposit of moisture on their \nsurfaces;"
+    },
+    {
+      "id": 46,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Special service conditions: In addition to the conditions covered in 27.3, the manufacturer should be advised by the \npurchaser of any special service conditions such as: rapid mould growth"
+    },
+    {
+      "id": 47,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Special service conditions: In addition to the conditions covered in 27.3, the manufacturer should be advised by the \npurchaser of any special service conditions such as: corrosive atmospheres"
+    },
+    {
+      "id": 48,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Special service conditions: In addition to the conditions covered in 27.3, the manufacturer should be advised by the \npurchaser of any special service conditions such as: pollution"
+    },
+    {
+      "id": 49,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Special service conditions: In addition to the conditions covered in 27.3, the manufacturer should be advised by the \npurchaser of any special service conditions such as: altitudes exceeding 1 000 m"
+    },
+    {
+      "id": 50,
+      "page": 37,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {
+          "rater 1": "TP",
+          "rater 2": "TP",
+          "rater 3": "TP"
+        },
+        "fewshot": {
+          "rater 1": "FN",
+          "rater 2": "FN",
+          "rater 3": "FN"
+        },
+        "role_and_few": {}
+      },
+      "text": "Special service conditions: In addition to the conditions covered in 27.3, the manufacturer should be advised by the \npurchaser of any special service conditions such as: earthquake areas"
+    }
+  ],
+  "FP": {
+    "roleplay": {
+      "17": [],
+      "18": [],
+      "35": [],
+      "36": [],
+      "37": []
+    },
+    "zeroshot": {
+      "17": [
+        {
+          "rater": "rater 1",
+          "count": 0
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 0
+        }
+      ],
+      "18": [
+        {
+          "rater": "rater 1",
+          "count": 0
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 0
+        }
+      ],
+      "35": [
+        {
+          "rater": "rater 1",
+          "count": 1
+        },
+        {
+          "rater": "rater 2",
+          "count": 1
+        },
+        {
+          "rater": "rater 3",
+          "count": 1
+        }
+      ],
+      "36": [
+        {
+          "rater": "rater 1",
+          "count": 4
+        },
+        {
+          "rater": "rater 2",
+          "count": 4
+        },
+        {
+          "rater": "rater 3",
+          "count": 7
+        }
+      ],
+      "37": [
+        {
+          "rater": "rater 1",
+          "count": 2
+        },
+        {
+          "rater": "rater 2",
+          "count": 2
+        },
+        {
+          "rater": "rater 3",
+          "count": 5
+        }
+      ]
+    },
+    "fewshot": {
+      "17": [
+        {
+          "rater": "rater 1",
+          "count": 1
+        },
+        {
+          "rater": "rater 2",
+          "count": 1
+        },
+        {
+          "rater": "rater 3",
+          "count": 3
+        }
+      ],
+      "18": [
+        {
+          "rater": "rater 1",
+          "count": 1
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 1
+        }
+      ],
+      "35": [
+        {
+          "rater": "rater 1",
+          "count": 0
+        },
+        {
+          "rater": "rater 2",
+          "count": 0
+        },
+        {
+          "rater": "rater 3",
+          "count": 0
+        }
+      ],
+      "36": [
+        {
+          "rater": "rater 1",
+          "count": 2
+        },
+        {
+          "rater": "rater 2",
+          "count": 2
+        },
+        {
+          "rater": "rater 3",
+          "count": 2
+        }
+      ],
+      "37": [
+        {
+          "rater": "rater 1",
+          "count": 1
+        },
+        {
+          "rater": "rater 2",
+          "count": 1
+        },
+        {
+          "rater": "rater 3",
+          "count": 1
+        }
+      ]
+    },
+    "role_and_few": {
+      "17": [],
+      "18": [],
+      "35": [],
+      "36": [],
+      "37": []
+    }
+  }
+}

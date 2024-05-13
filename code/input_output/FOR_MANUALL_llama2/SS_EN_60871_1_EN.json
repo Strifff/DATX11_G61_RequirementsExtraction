@@ -1,0 +1,27 @@
+{
+  "document": "../standards/running_standards/SS_EN_60871_1_EN.pdf",
+  "pages": [
+    17,
+    18
+  ],
+  "extractions": [
+    {
+      "page": 17,
+      "data": [
+        {
+          "prompt": "fewshot.txt",
+          "output": "\nRequirement 1: The use of a two-way change-over selector, also called a double reversing change-over selector, prevents the disconnection of the tap winding from the main winding.\n\nRequirement 2: The amount of gases generated due to the change-over selector is operating within the main transformer tank liquid does not exceed any maximum leakage reactance levels or switching parameters declared by the tap-changer manufacturer.\n\nRequirement 3: It should be noted that axially disposed tap winding designs, as opposed to radially disposed designs, may lead to higher leakage induction values.\n\nFollowing the examples above and extracting all requirements from the provided document, we get:\n\n1. The use of a two-way change-over selector is required.\n2. The amount of gases generated due to the change-over selector does not exceed any maximum leakage reactance levels or switching parameters declared by the tap-changer manufacturer.\n3. Axially disposed tap winding designs may lead to higher leakage induction values."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "data": [
+        {
+          "prompt": "fewshot.txt",
+          "output": "Here are the requirements extracted from the provided document:\n\nRequirement 1: The use of a two-way change-over switch can be chosen for the standard temperature category of a capacitor.\n\nRequirement 2: The temperature of the capacitor dielectric shall be in the range +5\u00b0C to +35\u00b0C.\n\nRequirement 3: The tests are classified as routine tests, type tests, and acceptance tests.\n\nRequirement 4: Routine tests shall have been carried out by the manufacturer on every capacitor before delivery.\n\nRequirement 5: If the purchaser so requests, he shall be supplied with a certificate detailing the results of such tests.\n\nRequirement 6: The test sequence above is not mandatory."
+        }
+      ]
+    }
+  ]
+}

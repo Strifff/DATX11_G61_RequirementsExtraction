@@ -1,0 +1,35 @@
+{
+  "document": "../standards/running_standards/IEC_IEEE_60214.pdf",
+  "pages": [
+    45,
+    46
+  ],
+  "extractions": [
+    {
+      "page": 45,
+      "data": [
+        {
+          "prompt": "fewshot.txt",
+          "output": "Here are the requirements from the provided document:\n\nRequirement 7.2.1.8: Change-over selector recovery voltages\n\n* General: The change-over selector momentarily disconnects the tap winding during operation, which can cause high recovery voltages across the contacts.\n* Winding locations: The potential of the tap winding is floating and determined by the voltages of adjacent windings and capacitances to these windings and/or grounded parts.\n* Capacitance control: Uses additional capacitors to adjust the stresses on the opening change-over selector contacts to admissible limits.\n* Resistive control: Uses resistors for the same purpose as capacitance control.\n\nRequirement 7.2.1.8.1: General\n\n* When coarse, fine, or reversing change-over selectors operate, they momentarily disconnect the tap winding.\n* Discharges between the opening and closing contacts can occur during the operation of the change-over selector.\n\nRequirement 7.2.1.8.2: Winding locations\n\n* The potential of the tap winding is floating and determined by the voltages of adjacent windings and capacitances to these windings and/or grounded parts.\n\nRequirement 7.2.1.8.3: Methods for controlling the recovery voltage\n\n* The admissible limits of the recovery voltage at the change-over contacts and the capacitive current are defined by the OLTC manufacturer.\n* There are different methods to decrease the stresses on the opening change-over selector contacts, such as capacitance control and resistive control."
+        },
+        {
+          "prompt": "zeroshot.txt",
+          "output": "Here are the requirements extracted from the given document according to IEEE's definition:\n\n1. The change-over selector recovery voltages must be controlled to avoid difficultes with regard to dielectric stress and formation of gases (7.2.1.8.1).\n2. The winding design should prevent the maximum permissible switching parameters from being exceeded, either with or without any limiting devices installed (7.2.1.8.1).\n3. During transformer testing, the tap-changer change-over selector should be tested in accordance with IEC 60076-1:2011 to confirm satisfactory switching (7.2.1.8.2).\n4. The capacitances between the windings are often given as values taken from a measurement or can be calculated from the dimensions of the winding arrangement, and the transformer manufacturer shall provide these values (7.2.1.8.2).\n5. The stresses of the change-over selector have to be verified as acceptable by the tap-changer manufacturer (7.2.1.8.3).\n6. There are different methods to decrease the stresses on the opening change-over selector contacts, such as capacitance control and resistive control (7.2.1.8.3).\n7. The use of capacitance control can lead to voltage oscillations due to resonant conditions (7.2.1.8.3)."
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "data": [
+        {
+          "prompt": "fewshot.txt",
+          "output": "Based on the provided document and IEEE's definition of a requirement, I have extracted the following requirements:\n\n1. The use of a two-way change-over selector prevents the disconnection of the tap winding from the main winding.\n2. The amount of gases generated due to the change-over selector operation is in the range of a few milliliters per operation and can affect the DGA of the transformer if the change-over selector is operating within the main transformer tank liquid.\n3. When changing from the end of the fine winding to the end of the coarse winding with resistor tap-changers, a high leakage inductance can be set up with the two windings in series opposition.\n4. At the diverter switch, high lightning impulse voltages might appear if the tap selector is in a position where one connection is made to the end of the fine tap winding and the other is connected to the coarse winding.\n\nPlease note that these requirements are based on the provided document and may not be exhaustive or up-to-date."
+        },
+        {
+          "prompt": "zeroshot.txt",
+          "output": "Here are the requirements found in the provided document:\n\n1. The use of a two-way change-over selector prevents the disconnection of the tap winding from the main winding. (Non-functional requirement, meets safety and regulatory standards)\n2. The amount of gases generated due to the change-over selector operation is in the range of a few millilitres per operation and can affect the DGA of the transformer if the change-over selector is operating within the main transformer tank liquid. (Functional requirement, related to performance)\n3. The change-over selector operation generates a discharge noise due to the breaking action, which can be noticeable. (Non-functional requirement, related to quality)\n4. When changing from the end of the fine winding to the end of the coarse winding with resistor type tap-changers, a high leakage inductance can be set up with the two windings in series opposition. (Functional requirement, related to performance)\n5. The transformer manufacturer should ensure that the winding design does not exceed any maximum leakage reactance levels or switching parameters declared by the tap-changer manufacturer. (Non-functional requirement, meets safety and regulatory standards)\n6. At the diverter switch, high lightning impulse voltages might appear if the tap selector is in a position where one connection is made to the end of the fine tap winding and the other is connected to the coarse winding. (Functional requirement, related to performance)\n\nNote: The requirements are based on the definition provided in the question and may not be exhaustive or accurate if the document contains additional requirements beyond what is provided here."
+        }
+      ]
+    }
+  ]
+}

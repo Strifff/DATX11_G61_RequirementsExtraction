@@ -1,0 +1,35 @@
+{
+  "document": "../standards/running_standards/SS_EN_60871_1_EN.pdf",
+  "pages": [
+    17,
+    18
+  ],
+  "extractions": [
+    {
+      "page": 17,
+      "data": [
+        {
+          "prompt": "fewshot.txt",
+          "output": "Based on the provided document, the following requirements can be extracted:\n\n1. The capacitor shall not exceed 10% of the rated voltage in residual voltage at energization.\n2. If the altitude exceeds 1000 m above sea level, a correction factor shall be applied to all external insulation requirements as stipulated in Clause 18.\n3. Capacitors are classified in temperature categories, each category being specified by a number followed by a letter. The number represents the lowest ambient air temperature at which the capacitor may operate, and the letters represent upper limits of temperature variation ranges with maximum values specified in Table 1.\n4. The ambient temperature in an installation site shall not exceed the temperature limits of Table 1 by more than 5\u00b0C if the capacitor influences the air temperature, ventilation, or choice of capacitor.\n5. The lowest ambient air temperature at which the capacitor may be operated should be chosen from the five preferred values +5\u00b0C, -5\u00b0C, -25\u00b0C, -40\u00b0C, and -50\u00b0C.\n6. If the capacitor does not influence the air temperature, the ventilation, and/or choice of capacitor shall be such that the Table 1 limits are maintained. The cooling air temperature in such an installation shall not exceed the temperature limits of Table 1 by more than 5\u00b0C."
+        },
+        {
+          "prompt": "zeroshot.txt",
+          "output": "Based on the provided document, the following are the requirements extracted according to IEEE's definition of a requirement:\n\n1. The capacitor shall not have a residual voltage exceeding 10% of the rated voltage when energized (Clause 21, Subclause 19.2 and Annex D).\n2. If the altitude exceeds 1000 m above sea level, a correction factor shall be applied to all external insulation requirements as stipulated in Clause 18.\n3. Capacitors are classified in temperature categories, each category being specified by a number followed by a letter. The number represents the lowest ambient air temperature at which the capacitor may operate, and the letters represent upper limits of temperature variation ranges with maximum values specified in Table 1 (Clause 4).\n4. The lowest ambient air temperature at which the capacitor may be operated should be chosen from the five preferred values +5\u00b0C, -5\u00b0C, -25\u00b0C, -40\u00b0C, and -50\u00b0C (Clause 4).\n5. With the agreement of the manufacturer, the capacitor can be used at a lower temperature than the limits above, provided that energization takes place at a temperature at or above these limits (see 27.3.1).\n6. The ventilation and/or choice of capacitor shall be such that the Table 1 limits are maintained if the capacitor influences the air temperature (Clause 4).\n7. The cooling air temperature in such an installation shall not exceed the temperature limits of Table 1 by more than 5\u00b0C."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "data": [
+        {
+          "prompt": "fewshot.txt",
+          "output": "Here are the requirements from the provided document:\n\nRequirement 1: Capacitor types\nThe capacitors shall be of the following types: a) Air-gap; b) Double-layer; or c) Multi-layer.\n\nRequirement 2: Maximum working voltage\nThe maximum working voltage of the capacitor shall not exceed 245 kV.\n\nRequirement 3: Insulation levels\nThe standard insulation values are given in Table 1, and the highest voltage for equipment is divided into two ranges: Above 1 kV to 245 kV included (Table 3). The different operational aspects, therefore, shall be taken into account in the selection of the rated insulation level of the equipment.\n\nRequirement 4: Minimum and maximum temperatures\nThe temperature category of a capacitor can be chosen from the following ranges: \u201340/A, \u201325/A, \u20135/A, or \u20135/C. Preferred standard temperature categories are \u201340/A, \u201325/A, \u20135/A, and \u20135/C.\n\nRequirement 5: Test conditions\nUnless otherwise specified for a particular test or measurement, the temperature of the capacitor dielectric shall be in the range +5\u00b0C to +35\u00b0C. When a correction has to be applied, the reference temperature to be used is +20\u00b0C, unless otherwise agreed between the manufacturer and the purchaser. It may be assumed that the dielectric temperature of the capacitor unit is the same as the ambient temperature, provided that the capacitor has been left in an unenergized state at a constant ambient temperature for an adequate period.\n\nRequirement 6: Classification of tests\nThe tests are classified as routine tests, type tests, and acceptance tests. Routine tests shall have been carried out by the manufacturer on every capacitor before delivery. If the purchaser so requests, he shall be supplied with a certificate detailing the results of such tests. The test sequence above is not mandatory."
+        },
+        {
+          "prompt": "zeroshot.txt",
+          "output": "Here are the requirements found in the provided document:\n\n1. The capacitor's temperature category can be chosen from a range of options, including -40/A, -25/A, -5/A, and -5/C. (Clause 4.2)\n2. The standard does not apply to capacitors that operate in unusual service conditions, such as high temperatures or humidity. (Clause 5.1)\n3. Capacitors must meet the test requirements outlined in Clauses 7-11 and 12. (Clauses 5.2-6.2)\n4. The tests are classified as routine tests, type tests, and acceptance tests. (Clause 6.1)\n5. The capacitor's dielectric temperature must be in the range of +5\u00b0C to +35\u00b0C for testing purposes. (Clause 5.2)\n6. The a.c. tests and measurements shall be carried out at a frequency of 50 Hz or 60 Hz, independent of the rated frequency of the capacitor. (Clause 6.1)\n7. Capacitance measurement is a required test for capacitors. (Clause 7)\n8. Measurement of the tangent of the loss angle (tan \u03b4) of the capacitor is also required. (Clause 8)\n9. Voltage test between terminals is required. (Clause 9)\n10. AC voltage test between terminals and container is also required. (Clause 10)\n11. Test of internal discharge device is required. (Clause 11)\n12. Sealing test is required. (Clause 12)\n\nNote that these requirements are based on the provided document and may not be complete or up-to-date."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "script": [
+    {
+      "id": 1,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Low temperature conditions: If tap selectors, diverter switches or selector switches are subjected to air, oil or SF6 (sulfur hexafluoride, powerful insulator) at temperatures lower than negative 25 C during operation, then the tap changer manufacturer should be consulted about the characteristics of the transformer and tap changer insulation medium into consideration."
+    },
+    {
+      "id": 2,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Low temperature conditions: The lower limit of 25 C applies to mineral oil in accordance with IEC 60296 or ASTM D3487"
+    },
+    {
+      "id": 3,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Low temperature conditions: This limit of -25 °C applies to SF6, but the pressure should be considered"
+    },
+    {
+      "id": 4,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Low temperature conditions: If other than SF6 and mineral oil is used, a different lower limit then -25 °C will apply and the tap-changer manufacturer should be consulted"
+    },
+    {
+      "id": 5,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Low temperature conditions: If necessary (if operating below lowest allowed temperature), automatically controlled heating devices could be provided or, alternatively, means of preventing tap-change operation at abnormally low temperatures can be considered"
+    },
+    {
+      "id": 6,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "High temperature conditions: Oil temperatures exceeding the temperature 115 C will require limiting the operations per time unit and/or the number of consecutive operations OR considered by the application of a temperature capable OTLC (on-tap load charger)"
+    },
+    {
+      "id": 7,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "High temperature conditions: Acquiring a detailed specification regarding temperature range for the actual tap-changer, the manufacturer should be consulted."
+    },
+    {
+      "id": 8,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "High temperature conditions: If the actual transformer oil and ambient temperatures are different from those in the loading guides, these temperatures should be given to the tap-changer manufacturer to enable a more precise calculation of the permissible number of operations"
+    },
+    {
+      "id": 9,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "High temperature conditions: The upper limit for transformer top oil temperatures of 115 C under overload conditions applies to mineral oil in accordance with IEC 60076-7 or IEEE Std C57.91"
+    },
+    {
+      "id": 10,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "High temperature conditions: If other insulating liquids or gases are used, a different limit will apply and the tap-changer manufacturer should be consulted"
+    },
+    {
+      "id": 11,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "High temperature conditions: If necessary, temperature measuring devices or, alternatively, means of preventing tap change operation at abnormally high temperatures can be considered."
+    },
+    {
+      "id": 12,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Overloading conditions: Permissible overload current shall meet the requirements in section 7.2.1.3.2"
+    },
+    {
+      "id": 13,
+      "page": 54,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Overloading conditions: Operation at overexcitation exceeding the levels specified in IEC 60076-1 or IEEE Std C57.12.00 or operations with any overvoltage when exceeding rated load is not allowed."
+    },
+    {
+      "id": 14,
+      "page": 55,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Overloading conditions: If overexcitation exceeding the levels specified are expected to occur, the tap-changer manufacturer shall be consulted"
+    },
+    {
+      "id": 15,
+      "page": 55,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Overloading conditions: For specific loading conditions and limitations for gas-filled power transformers, consult the SF6 insulated tap-changer manufacturer"
+    },
+    {
+      "id": 16,
+      "page": 55,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Overloading conditions: For continuous consecutive operations over more than half the typical regulating range, at overloads and/or at high transformer fluid temperatures, it is possible that the maximum permissible fluid temperature will be exceeded. The tap-changer manufacturer should be consulted with data required for a proper evaluation."
+    },
+    {
+      "id": 17,
+      "page": 56,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Preventive autotransformer circuit (reactor type tap-changer only): The design limits of the OLTC have to be respected."
+    },
+    {
+      "id": 18,
+      "page": 56,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Preventive autotransformer circuit (reactor type tap-changer only): the reactance of the preventive autotransformer shall be kept high to reduce the circulating current"
+    },
+    {
+      "id": 19,
+      "page": 56,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Preventive autotransformer circuit (reactor type tap-changer only): the reactance of the preventive autotransformer shall be kept low to minimize reactance drop"
+    },
+    {
+      "id": 20,
+      "page": 56,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Maximum rated through-current for the DETC: The maximum rated through-current of the DETC as defined in IEC 60214-1:2014, 3.30, or IEEE Std C57.131-2012, Clause 3, should be not less than that resulting from the highest value of the tap current of the tapped winding at the assigned rated power of the transformer in accordance with IEC 60076-1:2011, 5.1. (the maximum rated through-current should be higher than the highest resulting tap-current of the transformer)"
+    },
+    {
+      "id": 21,
+      "page": 56,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Maximum rated through-current for the DETC: If different values of apparent power for the transformer are assigned under different circumstances, for example, with different methods of cooling, the highest of these values is the rated power and, therefore, the basis for the maximum rated through-current of the DETC."
+    },
+    {
+      "id": 22,
+      "page": 56,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Overload current: When, for a particular application, a transformer is to be subjected to loading conditions in excess of the limitations in IEC 60076-7 or IEEE Std C57.91, the tap-changer manufacturer should be asked to recommend a suitably rated tap-changer"
+    },
+    {
+      "id": 23,
+      "page": 56,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Overload current: For gas-filled power transformers the SF6 insulated tap-changers manufacturer should be consulted for specific loading conditions and limitations"
+    },
+        {
+      "id": 24,
+      "page": 45,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "General: In order to avoid difficulties with regard to the dielectric stress and the formation of gases, special precautions can be necessary. The transformer manufacturer should ensure that the winding design prevents the maximum permissible switching parameters from being exceeded, either with or without any limiting devices (such as tie-in resistors) installed, which are declared by the tap changer manufacturer. "
+    },
+        {
+      "id": 25,
+      "page": 45,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "General: During transformer testing, the tap-changer change-over selector should be tested in accordance with IEC 60076-1:2011, 11.7, to confirm satisfactory switching. "
+    },
+        {
+      "id": 26,
+      "page": 45,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Winding Locations: When checking the dielectric stress on the change-over selector, the location of the tap winding within the winding arrangement and the capacitances to other windings and/or grounded parts of the transformer has to be known."
+    },
+        {
+      "id": 27,
+      "page": 45,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Winding Locations: The capacitances between the windings are often given as values taken from a measurement or can be calculated from the dimensions of the winding arrangement. The transformer manufacturer shall provide these values. "
+    },
+        {
+      "id": 28,
+      "page": 45,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Winding Locations: The stresses of the change-over selector have to be verified as acceptable by the tap-changer manufacturer. "
+    },
+        {
+      "id": 29,
+      "page": 46,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Methods for controlling the recovery voltage: This two-way change-over selector is a specially designed selector. It is not suitable for coarse/fine regulations. "
+    },
+        {
+      "id": 30,
+      "page": 46,
+      "ratings": {
+        "roleplay": {},
+        "zeroshot": {},
+        "fewshot": {},
+        "role_and_few": {}
+      },
+      "text": "Coarse/fine regulation: The transformer manufacturer should ensure that the winding design does not exceed any maximum leakage reactance levels or switching parameters declared by the tap-changer manufacturer. "
+    }
+  ],
+  "FP": {
+    "roleplay": {
+      "54": [],
+      "55": [],
+      "56": [],
+      "45": [],
+      "46": []
+    },
+    "zeroshot": {
+      "54": [],
+      "55": [],
+      "56": [],
+      "45": [],
+      "46": []
+    },
+    "fewshot": {
+      "54": [],
+      "55": [],
+      "56": [],
+      "45": [],
+      "46": []
+    },
+    "role_and_few": {
+      "54": [],
+      "55": [],
+      "56": [],
+      "45": [],
+      "46": []
+    }
+  }
+}

@@ -1,0 +1,8 @@
+__pychache__/
+#standards/
+llama_cpp
+vector_db/embeddings/*
+vector_db/embedding/*
+input_output/vector_stuff/glove.42B.300d.txt
+input_output/vector_stuff/glove.42B.300d.txt.pkl
+
