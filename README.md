@@ -1,1 +1,3 @@
-# DATX11_G61_RequirementsExtraction
+# DATX11, Group 61, Requirements Extraction Thesis
+
+![Original Contributions](images/OriginalContributions.png)
